@@ -1,0 +1,5 @@
+Ticket Which PNR Code is 61 and Destination is Luxor And Total Cost = 630 P.E : Having 2 Customers 
+Customer ID : 1	 Name : Omar	 Age : 20	 Gender : Male	 PNR : 61
+
+Customer ID : 2	 Name : Ali	 Age : 18	 Gender : Male	 PNR : 61
+
