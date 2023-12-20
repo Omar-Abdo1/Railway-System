@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703099555 source:c:\users\omar\desktop\oop_project\main.cpp
+	<bits/stdc++.h>
+	"User.h"
+	"Customer.h"
+
+1703099664 c:\users\omar\desktop\oop_project\include\user.h
+	<iostream>
+	"Customer.h"
+
+1703098048 c:\users\omar\desktop\oop_project\include\customer.h
+	"User.h"
+
