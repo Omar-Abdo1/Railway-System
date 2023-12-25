@@ -1,0 +1,3 @@
+Ticket Which PNR Code is 87 and Destination is Aswan And Total Cost = 390 P.E : Having 1 Customers 
+Customer ID : amr	 Name : AmrEmam	 Age : 22	 Gender : Male	 PNR : 87
+

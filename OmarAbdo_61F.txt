@@ -1,0 +1,4 @@
+ORDERED FOOD LIST : 
+1- Ful_Medames With Price = 10
+2- Ta3mia With Price = 5
+3- Umm_Ali With Price = 40
